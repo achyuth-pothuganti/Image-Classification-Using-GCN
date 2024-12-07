@@ -66,13 +66,10 @@ The **Graph Convolutional Network (GCN)** used in this project consists of:
 ---
 
 ## **Installation**
-1. Clone this repository:
+- Clone this repository:
    ```bash
    git clone https://github.com/achyuth-pothuganti/Image-Classification-Using-GCN.git
    cd Image-Classification-Using-GCN
-2. Install dependencies:
-   ```
-   pip install -r requirements.txt
 ---
 ### **Usage**
 Prepare the Dataset:
